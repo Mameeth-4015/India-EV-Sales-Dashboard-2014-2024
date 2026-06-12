@@ -40,8 +40,10 @@ India's EV market has undergone a **dramatic transformation** from 2014 to 2024.
 ---
 
 ## 🖼️ Dashboard Preview
+<img width="1371" height="767" alt="Screenshot 2026-06-12 213029" src="https://github.com/user-attachments/assets/6552c356-fa80-45b2-87b9-663d5b04516c" />
+<img width="1371" height="767" alt="Screenshot 2026-06-12 213029" src="https://github.com/user-attachments/assets/53b38c61-e6c2-4499-a737-f04c3212f15f" />
+<img width="1919" height="1140" alt="Screenshot 2026-06-12 213306" src="https://github.com/user-attachments/assets/3b99fe97-f52d-4f95-b96e-1265c3af5032" />
 
-> *(Add your dashboard screenshots here)*
 
 ```
 📁 screenshots/
@@ -160,8 +162,8 @@ Contributions are welcome! If you have updated data, additional KPIs, or UI impr
 
 **Made with ❤️ and data**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Mameeth-4015)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mameethc)
 
 *If this dashboard helped you, drop a ⭐ — it means a lot!*
 
