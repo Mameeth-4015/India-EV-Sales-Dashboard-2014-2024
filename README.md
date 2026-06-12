@@ -40,9 +40,10 @@ India's EV market has undergone a **dramatic transformation** from 2014 to 2024.
 ---
 
 ## 🖼️ Dashboard Preview
-<img width="1371" height="767" alt="Screenshot 2026-06-12 213029" src="https://github.com/user-attachments/assets/6552c356-fa80-45b2-87b9-663d5b04516c" />
-<img width="1371" height="767" alt="Screenshot 2026-06-12 213029" src="https://github.com/user-attachments/assets/53b38c61-e6c2-4499-a737-f04c3212f15f" />
-<img width="1919" height="1140" alt="Screenshot 2026-06-12 213306" src="https://github.com/user-attachments/assets/3b99fe97-f52d-4f95-b96e-1265c3af5032" />
+<img width="1292" height="709" alt="Screenshot 2026-06-12 145656" src="https://github.com/user-attachments/assets/992cf83d-576f-497b-a676-fd07acc0f743" />
+<img width="1371" height="767" alt="Screenshot 2026-06-12 213029" src="https://github.com/user-attachments/assets/0b6dd20b-6193-4e91-9698-04fcf9a244bf" />
+<img width="1919" height="1140" alt="Screenshot 2026-06-12 213306" src="https://github.com/user-attachments/assets/da59f32b-245f-4800-9231-7db3043342a5" />
+
 
 
 ```
